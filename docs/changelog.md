@@ -1,5 +1,5 @@
 # Changelog
-## v0.0.12 - 22, August 2023
+## v0.0.2 - 22, August 2023
 
 -   Learn documnetaion of package website
 
