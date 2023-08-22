@@ -1,11 +1,8 @@
 # Changelog
+## v0.0.12 - 22, August 2023
 
-## v0.0.1 - Date
+-   Learn documnetaion of package website
 
-**Improvement**:
+## v0.0.1 - 07, August 2023
 
--   TBD
-
-**New Features**:
-
--   TBD
+-   Intial release
